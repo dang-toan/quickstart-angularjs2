@@ -1,4 +1,4 @@
-*`This repository is cloned from [Angular 2 QuickStart](https://github.com/angular/quickstart)`*
+>This repository is cloned from [Angular 2 QuickStart](https://github.com/angular/quickstart)
 
 # Angular 2 QuickStart Source
 
