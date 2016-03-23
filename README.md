@@ -1,6 +1,4 @@
-```bash
-*This repository is cloned from [https://github.com/angular/quickstart](https://github.com/angular/quickstart)*
-```
+*`This repository is cloned from (https://github.com/angular/quickstart)`*
 
 # Angular 2 QuickStart Source
 
